@@ -2,8 +2,9 @@
 
 Building software, one module at a time.
 
-Website: https://modularsoft.org/
-Discord: https://discord.gg/YRpakuYhJZ
+**Website:** https://modularsoft.org/
+
+**Discord:** https://discord.gg/YRpakuYhJZ
 
 <!--
 
